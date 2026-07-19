@@ -9,7 +9,7 @@ A MERN stack travel booking platform inspired by Airbnb.
 - Search and filters
 - User authentication (JWT)
 - Booking management
-- Responsive UI
+- Responsive User Interface
 
 ## Tech Stack
 - Frontend: React.js
